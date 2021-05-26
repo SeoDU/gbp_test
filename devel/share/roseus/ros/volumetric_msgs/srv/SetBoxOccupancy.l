@@ -1,0 +1,1 @@
+/home/donguk/ros_workspace/gbplanner_ws/devel/.private/volumetric_msgs/share/roseus/ros/volumetric_msgs/srv/SetBoxOccupancy.l

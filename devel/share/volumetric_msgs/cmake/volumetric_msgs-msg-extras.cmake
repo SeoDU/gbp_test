@@ -1,0 +1,1 @@
+/home/donguk/ros_workspace/gbplanner_ws/devel/.private/volumetric_msgs/share/volumetric_msgs/cmake/volumetric_msgs-msg-extras.cmake

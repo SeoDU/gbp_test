@@ -1,0 +1,4 @@
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/libunavlib_essential.so
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/unavlib.pc
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/unavlib/cmake/unavlibConfig.cmake
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/unavlib/cmake/unavlibConfig-version.cmake

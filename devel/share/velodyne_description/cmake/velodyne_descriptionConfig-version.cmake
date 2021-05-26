@@ -1,0 +1,1 @@
+/home/donguk/ros_workspace/gbplanner_ws/devel/.private/velodyne_description/share/velodyne_description/cmake/velodyne_descriptionConfig-version.cmake

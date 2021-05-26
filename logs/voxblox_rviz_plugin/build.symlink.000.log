@@ -1,0 +1,4 @@
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/libvoxblox_rviz_plugin.so
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/voxblox_rviz_plugin.pc
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/voxblox_rviz_plugin/cmake/voxblox_rviz_pluginConfig-version.cmake
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/voxblox_rviz_plugin/cmake/voxblox_rviz_pluginConfig.cmake

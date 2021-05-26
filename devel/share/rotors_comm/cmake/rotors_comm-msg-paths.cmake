@@ -1,0 +1,1 @@
+/home/donguk/ros_workspace/gbplanner_ws/devel/.private/rotors_comm/share/rotors_comm/cmake/rotors_comm-msg-paths.cmake

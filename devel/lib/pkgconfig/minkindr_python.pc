@@ -1,0 +1,1 @@
+/home/donguk/ros_workspace/gbplanner_ws/devel/.private/minkindr_python/lib/pkgconfig/minkindr_python.pc

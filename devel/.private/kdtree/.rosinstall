@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/donguk/ros_workspace/gbplanner_ws/devel/.private/kdtree/setup.sh

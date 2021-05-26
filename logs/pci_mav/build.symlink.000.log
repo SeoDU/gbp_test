@@ -1,0 +1,5 @@
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/libpci_mav.so
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/pci_mav.pc
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pci_mav/pci_mav_ros_node
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/pci_mav/cmake/pci_mavConfig.cmake
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/pci_mav/cmake/pci_mavConfig-version.cmake

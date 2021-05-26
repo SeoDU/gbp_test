@@ -1,0 +1,10 @@
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/libvoxblox_ros.so
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/voxblox_ros/voxblox_eval
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/voxblox_ros/esdf_server
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/voxblox_ros/tsdf_server
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/voxblox_ros/simulation_eval
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/voxblox_ros/intensity_server
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/voxblox_ros/visualize_tsdf
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/voxblox_ros.pc
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/voxblox_ros/cmake/voxblox_rosConfig-version.cmake
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/voxblox_ros/cmake/voxblox_rosConfig.cmake

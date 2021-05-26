@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target gbplanner_ui_autogen[0m
+[ 25%] [34m[1mAutomatic MOC for target gbplanner_ui[0m
+[ 25%] Built target gbplanner_ui_autogen
+[35m[1mScanning dependencies of target gbplanner_ui[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/gbplanner_ui.dir/src/gbplanner_ui.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/gbplanner_ui.dir/gbplanner_ui_autogen/mocs_compilation.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/donguk/ros_workspace/gbplanner_ws/devel/.private/gbplanner_ui/lib/libgbplanner_ui.so[0m
+[100%] Built target gbplanner_ui

@@ -1,0 +1,4 @@
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/champ_gazebo/contact_sensor
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/champ_gazebo.pc
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/champ_gazebo/cmake/champ_gazeboConfig.cmake
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/champ_gazebo/cmake/champ_gazeboConfig-version.cmake

@@ -1,0 +1,8 @@
+prefix=/home/donguk/ros_workspace/gbplanner_ws/devel/.private/path_follow
+
+Name: path_follow
+Description: Description of path_follow
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

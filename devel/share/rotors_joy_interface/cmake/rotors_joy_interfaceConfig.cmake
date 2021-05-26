@@ -1,0 +1,1 @@
+/home/donguk/ros_workspace/gbplanner_ws/devel/.private/rotors_joy_interface/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig.cmake

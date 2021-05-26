@@ -1,0 +1,5 @@
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/libgazebo_ros_lidar_gpu.so
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/libgazebo_ros_lidar.so
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/lidar_gazebo_plugins.pc
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/lidar_gazebo_plugins/cmake/lidar_gazebo_pluginsConfig.cmake
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/lidar_gazebo_plugins/cmake/lidar_gazebo_pluginsConfig-version.cmake

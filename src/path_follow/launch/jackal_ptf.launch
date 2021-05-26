@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<launch>
+  <arg name="param_file" default="$(find path_follow)/config/params.yaml" />
+  <node name="jackal_ptf" pkg="path_follow" type="jackal_ptf" output="screen"
+   >
+    <remap from="/jackal/pathfollow/ctrl" to="jackal_velocity_controller/cmd_vel"/>
+    <remap from="/jackal/pathfollow/waypoint" to="/mavros/setpoint_position/local"/>
+    <remap from="/jackal/pose" to="/ground_truth_pose" />
+    <rosparam command="load" file="$(arg param_file)" />
+  </node>
+</launch>

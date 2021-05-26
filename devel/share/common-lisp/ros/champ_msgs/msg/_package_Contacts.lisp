@@ -1,0 +1,1 @@
+/home/donguk/ros_workspace/gbplanner_ws/devel/.private/champ_msgs/share/common-lisp/ros/champ_msgs/msg/_package_Contacts.lisp

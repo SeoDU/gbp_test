@@ -1,0 +1,1 @@
+/home/donguk/ros_workspace/gbplanner_ws/devel/.private/voxblox_msgs/lib/python2.7/dist-packages/voxblox_msgs/msg/__init__.py

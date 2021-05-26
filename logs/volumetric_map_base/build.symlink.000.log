@@ -1,0 +1,4 @@
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/libvolumetric_map_base.so
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/volumetric_map_base.pc
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/volumetric_map_base/cmake/volumetric_map_baseConfig.cmake
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/volumetric_map_base/cmake/volumetric_map_baseConfig-version.cmake

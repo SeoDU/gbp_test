@@ -1,0 +1,8 @@
+prefix=/home/donguk/ros_workspace/gbplanner_ws/devel/.private/voxblox
+
+Name: voxblox
+Description: Description of voxblox
+Version: 0.0.0
+Cflags: -I/home/donguk/ros_workspace/gbplanner_ws/src/voxblox/voxblox/include -I/home/donguk/ros_workspace/gbplanner_ws/devel/.private/voxblox/include
+Libs: -L${prefix}/lib -lvoxblox_proto -lvoxblox
+Requires: eigen_catkin eigen_checks gflags_catkin glog_catkin minkindr protobuf_catkin

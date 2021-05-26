@@ -1,0 +1,1 @@
+cmd='cd;../glog_src/;&&;autoreconf;-fi;&&;./configure;--with-pic;--with-gflags=/home/donguk/ros_workspace/gbplanner_ws/devel/.private/gflags_catkin;--prefix=/home/donguk/ros_workspace/gbplanner_ws/devel/.private/glog_catkin'

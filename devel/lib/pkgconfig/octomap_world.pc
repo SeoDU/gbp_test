@@ -1,0 +1,1 @@
+/home/donguk/ros_workspace/gbplanner_ws/devel/.private/octomap_world/lib/pkgconfig/octomap_world.pc

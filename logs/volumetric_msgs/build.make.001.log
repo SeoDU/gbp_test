@@ -1,0 +1,21 @@
+[  0%] Built target _volumetric_msgs_generate_messages_check_deps_SaveMap
+[  0%] Built target _volumetric_msgs_generate_messages_check_deps_SetBoxOccupancy
+[  0%] Built target _volumetric_msgs_generate_messages_check_deps_SetDisplayBounds
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target _volumetric_msgs_generate_messages_check_deps_LoadMap
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _volumetric_msgs_generate_messages_check_deps_GetChangedPoints
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 18%] Built target volumetric_msgs_generate_messages_lisp
+[ 37%] Built target volumetric_msgs_generate_messages_nodejs
+[ 59%] Built target volumetric_msgs_generate_messages_eus
+[ 81%] Built target volumetric_msgs_generate_messages_py
+[100%] Built target volumetric_msgs_generate_messages_cpp
+[100%] Built target volumetric_msgs_generate_messages

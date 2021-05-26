@@ -1,0 +1,1 @@
+/home/donguk/ros_workspace/gbplanner_ws/devel/.private/minkindr_conversions/share/minkindr_conversions/cmake/minkindr_conversionsConfig-version.cmake

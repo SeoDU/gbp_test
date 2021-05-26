@@ -1,0 +1,1 @@
+/home/donguk/ros_workspace/gbplanner_ws/devel/.private/anymal_b_base/lib/pkgconfig/anymal_b_base.pc

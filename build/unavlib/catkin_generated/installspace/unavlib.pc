@@ -1,0 +1,8 @@
+prefix=/home/donguk/ros_workspace/gbplanner_ws/install
+
+Name: unavlib
+Description: Description of unavlib
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lunavlib_essential
+Requires: 

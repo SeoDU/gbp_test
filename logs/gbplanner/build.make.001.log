@@ -1,0 +1,227 @@
+[  0%] Built target stereo_msgs_generate_messages_nodejs
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target volumetric_msgs_generate_messages_eus
+[  0%] Built target volumetric_msgs_generate_messages_lisp
+[  0%] Built target volumetric_msgs_generate_messages_cpp
+[  0%] Built target stereo_msgs_generate_messages_eus
+[  0%] Built target stereo_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target rviz_generate_messages_py
+[  0%] Built target rviz_generate_messages_lisp
+[  0%] Built target map_msgs_generate_messages_lisp
+[  0%] Built target rviz_generate_messages_eus
+[  0%] Built target voxblox_msgs_generate_messages_nodejs
+[  0%] Built target volumetric_msgs_generate_messages_nodejs
+[  0%] Built target rviz_generate_messages_cpp
+[  0%] Built target topic_tools_generate_messages_lisp
+[  0%] Built target topic_tools_generate_messages_eus
+[  0%] Built target topic_tools_generate_messages_nodejs
+[  0%] Built target stereo_msgs_generate_messages_py
+[  0%] Built target topic_tools_generate_messages_cpp
+[  0%] Built target bond_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target bond_generate_messages_nodejs
+[  0%] Built target bond_generate_messages_lisp
+[  0%] Built target bond_generate_messages_eus
+[  0%] Built target bond_generate_messages_cpp
+[  0%] Built target nodelet_generate_messages_nodejs
+[  0%] Built target nodelet_generate_messages_lisp
+[  0%] Built target map_msgs_generate_messages_eus
+[  0%] Built target nodelet_generate_messages_eus
+[  0%] Built target nodelet_generate_messages_cpp
+[  0%] Built target volumetric_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target image_proc_gencfg
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target octomap_msgs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target nodelet_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target planner_msgs_generate_messages_eus
+[  0%] Built target voxblox_msgs_generate_messages_py
+[  0%] Built target visualization_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target planner_msgs_generate_messages_nodejs
+[  0%] Built target topic_tools_generate_messages_py
+[  0%] Built target map_msgs_generate_messages_nodejs
+[  0%] Built target nodelet_topic_tools_gencfg
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target rviz_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target octomap_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target voxblox_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target map_msgs_generate_messages_py
+[  0%] Built target pcl_ros_gencfg
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target octomap_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target map_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target octomap_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target planner_msgs_generate_messages_cpp
+[  0%] Built target stereo_msgs_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target planner_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_py
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_cpp
+[  0%] Built target octomap_msgs_generate_messages_lisp
+[  0%] Built target voxblox_msgs_generate_messages_cpp
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target pcl_msgs_generate_messages_lisp
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target planner_msgs_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target pcl_msgs_generate_messages_py
+[  0%] Built target voxblox_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target gbplanner[0m
+[  7%] [32mBuilding CXX object CMakeFiles/gbplanner.dir/src/graph.cpp.o[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/gbplanner.dir/src/graph_manager.cpp.o[0m
+[ 23%] [32mBuilding CXX object CMakeFiles/gbplanner.dir/src/gbplanner.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/gbplanner.dir/src/rrg.cpp.o[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/gbplanner.dir/src/params.cpp.o[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/gbplanner.dir/src/trajectory.cpp.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/gbplanner.dir/src/random_sampler.cpp.o[0m
+In file included from [01m[K/opt/ros/melodic/include/ros/ros.h:40:0[m[K,
+                 from [01m[K/home/donguk/ros_workspace/gbplanner_ws/src/gbplanner_ros/gbplanner/include/gbplanner/params.h:11[m[K,
+                 from [01m[K/home/donguk/ros_workspace/gbplanner_ws/src/gbplanner_ros/gbplanner/src/params.cpp:1[m[K:
+[01m[K/home/donguk/ros_workspace/gbplanner_ws/src/gbplanner_ros/gbplanner/src/params.cpp:[m[K In member function ‘[01m[Kbool explorer::SensorParamsBase::loadParams(std::__cxx11::string)[m[K’:
+[01m[K/opt/ros/melodic/include/ros/console.h:348:176:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 8 has type ‘[01m[Kstd::vector<Eigen::Matrix<double, 3, 1> >::size_type {aka long unsigned int}[m[K’ [[01;35m[K-Wformat=[m[K]
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__[01;35m[K)[m[K
+                                                                                                                                                                                [01;35m[K^[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:351:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     [01;36m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K(NULL, __VA_ARGS__)
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:387:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:572:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/donguk/ros_workspace/gbplanner_ws/src/gbplanner_ros/gbplanner/src/params.cpp:130:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+     [01;36m[KR[m[KOS_INFO(
+     [01;36m[K^[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:348:176:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 8 has type ‘[01m[Kstd::vector<Eigen::Matrix<double, 3, 1> >::size_type {aka long unsigned int}[m[K’ [[01;35m[K-Wformat=[m[K]
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__[01;35m[K)[m[K
+                                                                                                                                                                                [01;35m[K^[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:351:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     [01;36m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K(NULL, __VA_ARGS__)
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:387:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:572:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/donguk/ros_workspace/gbplanner_ws/src/gbplanner_ros/gbplanner/src/params.cpp:151:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+     [01;36m[KR[m[KOS_INFO(
+     [01;36m[K^[m[K
+[ 61%] [32mBuilding CXX object CMakeFiles/gbplanner.dir/src/gbplanner_rviz.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/gbplanner.dir/src/map_manager_voxblox_impl.cpp.o[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/gbplanner.dir/src/geofence_manager.cpp.o[0m
+In file included from [01m[K/opt/ros/melodic/include/ros/ros.h:40:0[m[K,
+                 from [01m[K/home/donguk/ros_workspace/gbplanner_ws/src/gbplanner_ros/gbplanner/include/gbplanner/params.h:11[m[K,
+                 from [01m[K/home/donguk/ros_workspace/gbplanner_ws/src/gbplanner_ros/gbplanner/include/gbplanner/geofence_manager.h:15[m[K,
+                 from [01m[K/home/donguk/ros_workspace/gbplanner_ws/src/gbplanner_ros/gbplanner/src/geofence_manager.cpp:1[m[K:
+[01m[K/home/donguk/ros_workspace/gbplanner_ws/src/gbplanner_ros/gbplanner/src/geofence_manager.cpp:[m[K In member function ‘[01m[Kvoid explorer::gbplanner::GeofenceManager::addGeofenceArea(explorer::gbplanner::Polygon2d&, bool)[m[K’:
+[01m[K/opt/ros/melodic/include/ros/console.h:348:176:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [[01;35m[K-Wformat-extra-args[m[K]
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__[01;35m[K)[m[K
+                                                                                                                                                                                [01;35m[K^[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:351:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     [01;36m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K(NULL, __VA_ARGS__)
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:387:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:572:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/rosconsole/macros_generated.h:162:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_WARN(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Warn, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/donguk/ros_workspace/gbplanner_ws/src/gbplanner_ros/gbplanner/src/geofence_manager.cpp:92:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN[m[K’
+   [01;36m[KR[m[KOS_WARN("Number of geofence areas: ", (int)geofence_list_.size());
+   [01;36m[K^[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/ros.h:40:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/pcl_conversions/pcl_conversions.h:42[m[K,
+                 from [01m[K/home/donguk/ros_workspace/gbplanner_ws/src/gbplanner_ros/gbplanner/include/gbplanner/gbplanner_rviz.h:6[m[K,
+                 from [01m[K/home/donguk/ros_workspace/gbplanner_ws/src/gbplanner_ros/gbplanner/src/gbplanner_rviz.cpp:1[m[K:
+[01m[K/home/donguk/ros_workspace/gbplanner_ws/src/gbplanner_ros/gbplanner/src/gbplanner_rviz.cpp:[m[K In member function ‘[01m[Kvoid explorer::gbplanner::Visualization::visualizeRays(explorer::StateVec, std::vector<Eigen::Matrix<double, 3, 1> >)[m[K’:
+[01m[K/opt/ros/melodic/include/ros/console.h:348:176:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 8 has type ‘[01m[Kstd::vector<Eigen::Matrix<double, 3, 1> >::size_type {aka long unsigned int}[m[K’ [[01;35m[K-Wformat=[m[K]
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__[01;35m[K)[m[K
+                                                                                                                                                                                [01;35m[K^[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:351:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     [01;36m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K(NULL, __VA_ARGS__)
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:387:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:572:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/donguk/ros_workspace/gbplanner_ws/src/gbplanner_ros/gbplanner/src/gbplanner_rviz.cpp:1553:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+   [01;36m[KR[m[KOS_INFO("Visualize: %d rays", ray_endpoints.size());
+   [01;36m[K^[m[K
+[ 84%] [32m[1mLinking CXX shared library /home/donguk/ros_workspace/gbplanner_ws/devel/.private/gbplanner/lib/libgbplanner.so[0m
+[ 84%] Built target gbplanner
+[35m[1mScanning dependencies of target gbplanner_node[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/gbplanner_node.dir/src/gbplanner_ros_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/donguk/ros_workspace/gbplanner_ws/devel/.private/gbplanner/lib/gbplanner/gbplanner_node[0m
+[100%] Built target gbplanner_node

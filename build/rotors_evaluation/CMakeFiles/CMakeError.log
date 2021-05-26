@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/donguk/ros_workspace/gbplanner_ws/build/rotors_evaluation/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_da9ef/fast"
+/usr/bin/make -f CMakeFiles/cmTC_da9ef.dir/build.make CMakeFiles/cmTC_da9ef.dir/build
+make[1]: Entering directory '/home/donguk/ros_workspace/gbplanner_ws/build/rotors_evaluation/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_da9ef.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_da9ef.dir/CheckSymbolExists.c.o   -c /home/donguk/ros_workspace/gbplanner_ws/build/rotors_evaluation/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_da9ef
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_da9ef.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_da9ef.dir/CheckSymbolExists.c.o  -o cmTC_da9ef 
+CMakeFiles/cmTC_da9ef.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_da9ef.dir/build.make:97: recipe for target 'cmTC_da9ef' failed
+make[1]: *** [cmTC_da9ef] Error 1
+make[1]: Leaving directory '/home/donguk/ros_workspace/gbplanner_ws/build/rotors_evaluation/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_da9ef/fast' failed
+make: *** [cmTC_da9ef/fast] Error 2
+
+File /home/donguk/ros_workspace/gbplanner_ws/build/rotors_evaluation/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/donguk/ros_workspace/gbplanner_ws/build/rotors_evaluation/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b683d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b683d.dir/build.make CMakeFiles/cmTC_b683d.dir/build
+make[1]: Entering directory '/home/donguk/ros_workspace/gbplanner_ws/build/rotors_evaluation/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b683d.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_b683d.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_b683d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b683d.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_b683d.dir/CheckFunctionExists.c.o  -o cmTC_b683d -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_b683d.dir/build.make:97: recipe for target 'cmTC_b683d' failed
+make[1]: *** [cmTC_b683d] Error 1
+make[1]: Leaving directory '/home/donguk/ros_workspace/gbplanner_ws/build/rotors_evaluation/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_b683d/fast' failed
+make: *** [cmTC_b683d/fast] Error 2
+
+

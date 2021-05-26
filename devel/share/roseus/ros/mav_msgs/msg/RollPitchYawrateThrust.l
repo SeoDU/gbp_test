@@ -1,0 +1,1 @@
+/home/donguk/ros_workspace/gbplanner_ws/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/RollPitchYawrateThrust.l

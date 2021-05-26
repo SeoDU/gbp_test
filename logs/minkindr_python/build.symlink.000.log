@@ -1,0 +1,6 @@
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/libminkindr_python.so
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/python2.7/dist-packages/minkindr/__init__.py
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/python2.7/dist-packages/minkindr/libminkindr_python.so
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/minkindr_python.pc
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/minkindr_python/cmake/minkindr_pythonConfig.cmake
+Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/minkindr_python/cmake/minkindr_pythonConfig-version.cmake

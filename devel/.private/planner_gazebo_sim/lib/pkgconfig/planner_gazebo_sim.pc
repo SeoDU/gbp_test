@@ -1,0 +1,8 @@
+prefix=/home/donguk/ros_workspace/gbplanner_ws/devel/.private/planner_gazebo_sim
+
+Name: planner_gazebo_sim
+Description: Description of planner_gazebo_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

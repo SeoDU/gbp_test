@@ -1,0 +1,1 @@
+/home/donguk/ros_workspace/gbplanner_ws/devel/.private/planner_msgs/share/planner_msgs/cmake/planner_msgs-msg-extras.cmake

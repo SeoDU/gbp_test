@@ -1,0 +1,8 @@
+prefix=/home/donguk/ros_workspace/gbplanner_ws/install
+
+Name: pci_mav
+Description: Description of pci_mav
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lpci_mav
+Requires: trajectory_msgs mav_msgs planner_msgs planner_control_interface

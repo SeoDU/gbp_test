@@ -1,0 +1,1 @@
+/home/donguk/ros_workspace/gbplanner_ws/devel/.private/rqt_rotors/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake
