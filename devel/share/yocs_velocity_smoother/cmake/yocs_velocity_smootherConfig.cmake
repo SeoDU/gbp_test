@@ -1,1 +1,0 @@
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/yocs_velocity_smoother/share/yocs_velocity_smoother/cmake/yocs_velocity_smootherConfig.cmake

@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target kdtree[0m
-[ 50%] [32mBuilding C object CMakeFiles/kdtree.dir/src/kdtree.c.o[0m
-[100%] [32m[1mLinking C shared library /home/donguk/ros_workspace/gbplanner_ws/devel/.private/kdtree/lib/libkdtree.so[0m
-[100%] Built target kdtree

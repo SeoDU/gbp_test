@@ -1,5 +1,0 @@
-iccas2021-quad/champ
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/champ/cmake.lock /home/donguk/ros_workspace/gbplanner_ws/devel/./cmake.lock
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/champ/lib/pkgconfig/champ.pc /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/champ.pc
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/champ/share/champ/cmake/champConfig-version.cmake /home/donguk/ros_workspace/gbplanner_ws/devel/share/champ/cmake/champConfig-version.cmake
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/champ/share/champ/cmake/champConfig.cmake /home/donguk/ros_workspace/gbplanner_ws/devel/share/champ/cmake/champConfig.cmake

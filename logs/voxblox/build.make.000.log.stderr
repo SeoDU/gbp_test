@@ -1,8 +1,0 @@
-[01m[K/home/donguk/ros_workspace/gbplanner_ws/build/voxblox/compiled_proto/voxblox/Block.pb.cc:[m[K In member function ‘[01m[Kvirtual google::protobuf::uint8* voxblox::BlockProto::InternalSerializeWithCachedSizesToArray(bool, google::protobuf::uint8*) const[m[K’:
-[01m[K/home/donguk/ros_workspace/gbplanner_ws/build/voxblox/compiled_proto/voxblox/Block.pb.cc:404:10:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kdeterministic[m[K’ [[01;35m[K-Wunused-parameter[m[K]
-     bool [01;35m[Kdeterministic[m[K, ::google::protobuf::uint8* target) const {
-          [01;35m[K^~~~~~~~~~~~~[m[K
-[01m[K/home/donguk/ros_workspace/gbplanner_ws/build/voxblox/compiled_proto/voxblox/Layer.pb.cc:[m[K In member function ‘[01m[Kvirtual google::protobuf::uint8* voxblox::LayerProto::InternalSerializeWithCachedSizesToArray(bool, google::protobuf::uint8*) const[m[K’:
-[01m[K/home/donguk/ros_workspace/gbplanner_ws/build/voxblox/compiled_proto/voxblox/Layer.pb.cc:298:10:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kdeterministic[m[K’ [[01;35m[K-Wunused-parameter[m[K]
-     bool [01;35m[Kdeterministic[m[K, ::google::protobuf::uint8* target) const {
-          [01;35m[K^~~~~~~~~~~~~[m[K

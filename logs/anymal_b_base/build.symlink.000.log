@@ -1,9 +1,0 @@
-Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/libstate_estimation.so
-Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/libmessage_relay.so
-Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/libquadruped_controller.so
-Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/anymal_b_base/state_estimation_node
-Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/anymal_b_base/message_relay_node
-Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/anymal_b_base/quadruped_controller_node
-Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/anymal_b_base.pc
-Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/anymal_b_base/cmake/anymal_b_baseConfig.cmake
-Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/anymal_b_base/cmake/anymal_b_baseConfig-version.cmake

@@ -1,1 +1,0 @@
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/planner_msgs/share/roseus/ros/planner_msgs/srv/pci_search.l

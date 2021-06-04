@@ -1,1 +1,0 @@
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/planner_control_interface/lib/pkgconfig/planner_control_interface.pc

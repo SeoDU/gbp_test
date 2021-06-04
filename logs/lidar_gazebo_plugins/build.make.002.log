@@ -1,6 +1,0 @@
-[ 25%] [32mBuilding CXX object CMakeFiles/gazebo_ros_lidar.dir/src/GazeboRosLidar.cpp.o[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/gazebo_ros_lidar_gpu.dir/src/GazeboRosLidar.cpp.o[0m
-[ 75%] [32m[1mLinking CXX shared library /home/donguk/ros_workspace/gbplanner_ws/devel/.private/lidar_gazebo_plugins/lib/libgazebo_ros_lidar.so[0m
-[ 75%] Built target gazebo_ros_lidar
-[100%] [32m[1mLinking CXX shared library /home/donguk/ros_workspace/gbplanner_ws/devel/.private/lidar_gazebo_plugins/lib/libgazebo_ros_lidar_gpu.so[0m
-[100%] Built target gazebo_ros_lidar_gpu

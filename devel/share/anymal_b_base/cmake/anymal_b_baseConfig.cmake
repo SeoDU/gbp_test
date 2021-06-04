@@ -1,1 +1,0 @@
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/anymal_b_base/share/anymal_b_base/cmake/anymal_b_baseConfig.cmake

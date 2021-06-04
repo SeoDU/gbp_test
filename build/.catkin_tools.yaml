@@ -1,6 +1,0 @@
-devel_space: /home/donguk/ros_workspace/gbplanner_ws/devel
-install: false
-install_space: /home/donguk/ros_workspace/gbplanner_ws/install
-profile: default
-source_space: /home/donguk/ros_workspace/gbplanner_ws/src
-workspace: /home/donguk/ros_workspace/gbplanner_ws

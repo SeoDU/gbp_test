@@ -57,4 +57,7 @@ To make planning go well in the corner like blocked region, proper ranges should
 <plugin name="ros_interface_plugin" filename="librotors_gazebo_ros_interface_plugin.so"/>
 ```
 
-
+4. Refer the site here to implement in quadruped robot : 
+```
+https://github.com/ntnu-arl/gbplanner_ros/issues/6 
+```

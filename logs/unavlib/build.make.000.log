@@ -1,5 +1,0 @@
-[35m[1mScanning dependencies of target unavlib_essential[0m
-[ 33%] [32mBuilding CXX object CMakeFiles/unavlib_essential.dir/src/unavlib/others.cpp.o[0m
-[ 66%] [32mBuilding CXX object CMakeFiles/unavlib_essential.dir/src/unavlib/convt.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/donguk/ros_workspace/gbplanner_ws/devel/.private/unavlib/lib/libunavlib_essential.so[0m
-[100%] Built target unavlib_essential

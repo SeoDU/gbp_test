@@ -1,1 +1,0 @@
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/volumetric_map_base/lib/pkgconfig/volumetric_map_base.pc

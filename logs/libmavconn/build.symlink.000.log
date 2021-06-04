@@ -1,5 +1,0 @@
-Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/libmavconn.so
-Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/libmavconn.pc
-Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/libmavconn/cmake/libmavconnConfig.cmake
-Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/libmavconn/cmake/libmavconn-extras.cmake
-Symlinking /home/donguk/ros_workspace/gbplanner_ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake

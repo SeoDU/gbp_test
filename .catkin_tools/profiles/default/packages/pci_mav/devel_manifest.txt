@@ -1,7 +1,0 @@
-pci_mav
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/pci_mav/cmake.lock /home/donguk/ros_workspace/gbplanner_ws/devel/./cmake.lock
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/pci_mav/lib/libpci_mav.so /home/donguk/ros_workspace/gbplanner_ws/devel/lib/libpci_mav.so
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/pci_mav/lib/pkgconfig/pci_mav.pc /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/pci_mav.pc
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/pci_mav/lib/pci_mav/pci_mav_ros_node /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pci_mav/pci_mav_ros_node
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/pci_mav/share/pci_mav/cmake/pci_mavConfig.cmake /home/donguk/ros_workspace/gbplanner_ws/devel/share/pci_mav/cmake/pci_mavConfig.cmake
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/pci_mav/share/pci_mav/cmake/pci_mavConfig-version.cmake /home/donguk/ros_workspace/gbplanner_ws/devel/share/pci_mav/cmake/pci_mavConfig-version.cmake

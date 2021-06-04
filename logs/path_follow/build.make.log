@@ -1,5 +1,0 @@
-[35m[1mScanning dependencies of target jackal_ptf[0m
-[ 33%] [32mBuilding CXX object CMakeFiles/jackal_ptf.dir/src/jackal_pathfollow.cpp.o[0m
-[ 66%] [32mBuilding CXX object CMakeFiles/jackal_ptf.dir/src/pathfollow.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/donguk/ros_workspace/gbplanner_ws/devel/.private/path_follow/lib/path_follow/jackal_ptf[0m
-[100%] Built target jackal_ptf

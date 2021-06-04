@@ -1,6 +1,0 @@
-urlpackage/unavlib
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/unavlib/cmake.lock /home/donguk/ros_workspace/gbplanner_ws/devel/./cmake.lock
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/unavlib/lib/libunavlib_essential.so /home/donguk/ros_workspace/gbplanner_ws/devel/lib/libunavlib_essential.so
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/unavlib/lib/pkgconfig/unavlib.pc /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/unavlib.pc
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/unavlib/share/unavlib/cmake/unavlibConfig.cmake /home/donguk/ros_workspace/gbplanner_ws/devel/share/unavlib/cmake/unavlibConfig.cmake
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/unavlib/share/unavlib/cmake/unavlibConfig-version.cmake /home/donguk/ros_workspace/gbplanner_ws/devel/share/unavlib/cmake/unavlibConfig-version.cmake

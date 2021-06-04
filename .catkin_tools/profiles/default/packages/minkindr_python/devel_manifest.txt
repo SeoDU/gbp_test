@@ -1,8 +1,0 @@
-minkindr/minkindr_python
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/minkindr_python/cmake.lock /home/donguk/ros_workspace/gbplanner_ws/devel/./cmake.lock
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/minkindr_python/lib/libminkindr_python.so /home/donguk/ros_workspace/gbplanner_ws/devel/lib/libminkindr_python.so
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/minkindr_python/lib/python2.7/dist-packages/minkindr/__init__.py /home/donguk/ros_workspace/gbplanner_ws/devel/lib/python2.7/dist-packages/minkindr/__init__.py
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/minkindr_python/lib/python2.7/dist-packages/minkindr/libminkindr_python.so /home/donguk/ros_workspace/gbplanner_ws/devel/lib/python2.7/dist-packages/minkindr/libminkindr_python.so
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/minkindr_python/lib/pkgconfig/minkindr_python.pc /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/minkindr_python.pc
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/minkindr_python/share/minkindr_python/cmake/minkindr_pythonConfig.cmake /home/donguk/ros_workspace/gbplanner_ws/devel/share/minkindr_python/cmake/minkindr_pythonConfig.cmake
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/minkindr_python/share/minkindr_python/cmake/minkindr_pythonConfig-version.cmake /home/donguk/ros_workspace/gbplanner_ws/devel/share/minkindr_python/cmake/minkindr_pythonConfig-version.cmake

@@ -1,1 +1,0 @@
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/volumetric_msgs/share/gennodejs/ros/volumetric_msgs/_index.js

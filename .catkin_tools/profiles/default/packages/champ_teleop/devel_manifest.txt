@@ -1,5 +1,0 @@
-iccas2021-quad/champ_teleop
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/champ_teleop/cmake.lock /home/donguk/ros_workspace/gbplanner_ws/devel/./cmake.lock
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/champ_teleop/lib/pkgconfig/champ_teleop.pc /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/champ_teleop.pc
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/champ_teleop/share/champ_teleop/cmake/champ_teleopConfig-version.cmake /home/donguk/ros_workspace/gbplanner_ws/devel/share/champ_teleop/cmake/champ_teleopConfig-version.cmake
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/champ_teleop/share/champ_teleop/cmake/champ_teleopConfig.cmake /home/donguk/ros_workspace/gbplanner_ws/devel/share/champ_teleop/cmake/champ_teleopConfig.cmake

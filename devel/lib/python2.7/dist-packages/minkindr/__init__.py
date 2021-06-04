@@ -1,1 +1,0 @@
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/minkindr_python/lib/python2.7/dist-packages/minkindr/__init__.py

@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -Wall   -O3 -DNDEBUG  -shared -Wl,-soname,libcatkin_boost_python_test.so -o /home/donguk/ros_workspace/gbplanner_ws/devel/.private/catkin_boost_python_buildtool_test/lib/libcatkin_boost_python_test.so CMakeFiles/catkin_boost_python_test.dir/src/module.cpp.o -lpython2.7 -lboost_python 

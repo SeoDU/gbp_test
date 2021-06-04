@@ -1,1 +1,0 @@
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/rotors_evaluation/share/rotors_evaluation/cmake/rotors_evaluationConfig.cmake

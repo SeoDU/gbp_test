@@ -1,1 +1,0 @@
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/rotors_comm/share/gennodejs/ros/rotors_comm/srv/RecordRosbag.js

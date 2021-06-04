@@ -1,5 +1,0 @@
-iccas2021-quad/anymal_b_config
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/anymal_b_config/cmake.lock /home/donguk/ros_workspace/gbplanner_ws/devel/./cmake.lock
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/anymal_b_config/lib/pkgconfig/anymal_b_config.pc /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/anymal_b_config.pc
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/anymal_b_config/share/anymal_b_config/cmake/anymal_b_configConfig-version.cmake /home/donguk/ros_workspace/gbplanner_ws/devel/share/anymal_b_config/cmake/anymal_b_configConfig-version.cmake
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/anymal_b_config/share/anymal_b_config/cmake/anymal_b_configConfig.cmake /home/donguk/ros_workspace/gbplanner_ws/devel/share/anymal_b_config/cmake/anymal_b_configConfig.cmake

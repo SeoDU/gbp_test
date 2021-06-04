@@ -1,1 +1,0 @@
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/champ_msgs/share/roseus/ros/champ_msgs/msg/Point.l

@@ -1,8 +1,0 @@
-prefix=/home/donguk/ros_workspace/gbplanner_ws/devel/.private/catkin_boost_python_buildtool_test
-
-Name: catkin_boost_python_buildtool_test
-Description: Description of catkin_boost_python_buildtool_test
-Version: 0.0.1
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: catkin_boost_python_buildtool

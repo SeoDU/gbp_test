@@ -1,1 +1,0 @@
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/minkindr_python/share/minkindr_python/cmake/minkindr_pythonConfig-version.cmake

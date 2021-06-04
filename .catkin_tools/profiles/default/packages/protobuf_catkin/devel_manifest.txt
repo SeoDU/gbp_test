@@ -1,6 +1,0 @@
-protobuf_catkin
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/protobuf_catkin/cmake.lock /home/donguk/ros_workspace/gbplanner_ws/devel/./cmake.lock
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/protobuf_catkin/lib/pkgconfig/protobuf_catkin.pc /home/donguk/ros_workspace/gbplanner_ws/devel/lib/pkgconfig/protobuf_catkin.pc
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/protobuf_catkin/share/protobuf_catkin/cmake/protobuf_catkinConfig.cmake /home/donguk/ros_workspace/gbplanner_ws/devel/share/protobuf_catkin/cmake/protobuf_catkinConfig.cmake
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/protobuf_catkin/share/protobuf_catkin/cmake/protobuf_catkinConfig-version.cmake /home/donguk/ros_workspace/gbplanner_ws/devel/share/protobuf_catkin/cmake/protobuf_catkinConfig-version.cmake
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/protobuf_catkin/share/protobuf_catkin/cmake/protobuf-generate-cpp.cmake /home/donguk/ros_workspace/gbplanner_ws/devel/share/protobuf_catkin/cmake/protobuf-generate-cpp.cmake

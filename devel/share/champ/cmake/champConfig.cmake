@@ -1,1 +1,0 @@
-/home/donguk/ros_workspace/gbplanner_ws/devel/.private/champ/share/champ/cmake/champConfig.cmake

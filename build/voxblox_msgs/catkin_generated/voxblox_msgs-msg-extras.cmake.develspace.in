@@ -1,2 +1,0 @@
-set(voxblox_msgs_MESSAGE_FILES "/home/donguk/ros_workspace/gbplanner_ws/src/voxblox/voxblox_msgs/msg/Block.msg;/home/donguk/ros_workspace/gbplanner_ws/src/voxblox/voxblox_msgs/msg/Layer.msg;/home/donguk/ros_workspace/gbplanner_ws/src/voxblox/voxblox_msgs/msg/Mesh.msg;/home/donguk/ros_workspace/gbplanner_ws/src/voxblox/voxblox_msgs/msg/MeshBlock.msg;/home/donguk/ros_workspace/gbplanner_ws/src/voxblox/voxblox_msgs/msg/VoxelEvaluationDetails.msg")
-set(voxblox_msgs_SERVICE_FILES "/home/donguk/ros_workspace/gbplanner_ws/src/voxblox/voxblox_msgs/srv/FilePath.srv")
