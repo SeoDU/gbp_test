@@ -58,6 +58,6 @@ To make planning go well in the corner like blocked region, proper ranges should
 ```
 
 4. Refer the site here to implement in quadruped robot : 
-```
-https://github.com/ntnu-arl/gbplanner_ros/issues/6 
-```
+
+<https://github.com/ntnu-arl/gbplanner_ros/issues/6>
+
